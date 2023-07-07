@@ -1,0 +1,6 @@
+efg,Apple Watch,222.0,20
+hij,AirPods,22.0,7
+klm,AirPods,22.0,22
+abcccc,Mac,5555.0,8
+abc,Apple Watch,333.0,4444
+car,iPad,22222.0,22222220

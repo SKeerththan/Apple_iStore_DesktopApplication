@@ -1,0 +1,2 @@
+Manager,Manager,Manager
+Cashier,Cashier,Cashier
